@@ -16,7 +16,9 @@ plugins {
 jacoco {
     toolVersion = "0.8.11"
 }
-
+springBoot {
+    mainClass = 'com.hei.school.PojaApplication'
+}
 
 
 repositories {
