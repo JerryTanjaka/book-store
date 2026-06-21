@@ -25,7 +25,7 @@ repositories {
 }
 
 java {
-    group = 'com.example.demo'
+    group = 'com.hei.school'
     sourceCompatibility = '21'
     targetCompatibility = '21'
 }
